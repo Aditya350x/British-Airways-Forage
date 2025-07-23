@@ -1,4 +1,4 @@
-# ✈️ British Airways Data Science Job Simulation – Forage (July 2025)
+# ✈️ British Airways Data Science Job Simulation – Forage
 
 ## 📜 Overview
 This repository contains my completed work from the **British Airways Data Science Job Simulation**, hosted by [Forage](https://www.theforage.com/), where I applied data science techniques to real-world airline business challenges.
@@ -50,7 +50,4 @@ The simulation focused on how data science can support British Airways in:
 📧 adityavardhansingh02@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aditya-vardhan-singh-8a267a28b/)
 
----
-
-## 📌 Keywords
-`Data Science` · `Airline Analytics` · `Customer Segmentation` · `Predictive Modeling` · `Python` · `Machine Learning` · `Simulation Project`
+`
